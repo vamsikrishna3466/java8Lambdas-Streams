@@ -1,0 +1,156 @@
+2020-06-26 07:38:28 INFO  class:10 - checking whether the given list is empty or not
+2020-06-26 07:38:28 INFO  class:13 - list is not empty
+2020-06-26 07:38:28 DEBUG class:26 - sum of all elements in list is 16
+2020-06-26 07:38:28 DEBUG class:27 - Total number of elements is 5
+2020-06-26 07:38:28 DEBUG class:28 - Average is 3.2 
+2020-06-26 07:43:12 INFO  class:10 - checking whether the given list is empty or not
+2020-06-26 07:43:12 INFO  class:13 - list is not empty
+2020-06-26 07:43:12 DEBUG class:26 - sum of all elements in list is 16
+2020-06-26 07:43:12 DEBUG class:27 - Total number of elements is 5
+2020-06-26 07:43:12 DEBUG class:28 - Average is 3.2 
+2020-06-26 07:43:12 INFO  class:10 - checking whether the given list is empty or not
+2020-06-26 07:43:12 DEBUG class:35 - list is empty so average is 0
+2020-06-30 14:01:02 INFO  class:14 - In second task
+2020-06-30 14:01:02 INFO  class:17 - checking list is empty or not
+2020-06-30 14:01:02 INFO  class:20 - list is not empty
+2020-06-30 14:01:02 DEBUG class:24 - The length of list is 2
+2020-06-30 14:01:02 INFO  class:14 - In second task
+2020-06-30 14:01:02 INFO  class:17 - checking list is empty or not
+2020-06-30 14:02:41 INFO  class:14 - In second task
+2020-06-30 14:02:41 INFO  class:17 - checking list is empty or not
+2020-06-30 14:02:41 INFO  class:20 - list is not empty
+2020-06-30 14:02:41 DEBUG class:24 - The length of list is 2
+2020-06-30 14:02:41 INFO  class:14 - In second task
+2020-06-30 14:02:41 INFO  class:17 - checking list is empty or not
+2020-06-30 14:02:41 INFO  class:10 - checking whether the given list is empty or not
+2020-06-30 14:02:41 INFO  class:13 - list is not empty
+2020-06-30 14:02:41 DEBUG class:26 - sum of all elements in list is 16
+2020-06-30 14:02:41 DEBUG class:27 - Total number of elements is 5
+2020-06-30 14:02:41 DEBUG class:28 - Average is 3.2 
+2020-06-30 14:02:41 INFO  class:10 - checking whether the given list is empty or not
+2020-06-30 14:02:41 DEBUG class:35 - list is empty so average is 0
+2020-06-30 14:03:56 INFO  class:14 - In second task
+2020-06-30 14:03:56 INFO  class:17 - checking list is empty or not
+2020-06-30 14:03:56 INFO  class:20 - list is not empty
+2020-06-30 14:03:56 DEBUG class:24 - The length of list is 2
+2020-06-30 14:03:56 INFO  class:14 - In second task
+2020-06-30 14:03:56 INFO  class:17 - checking list is empty or not
+2020-06-30 14:03:56 INFO  class:10 - checking whether the given list is empty or not
+2020-06-30 14:03:56 INFO  class:13 - list is not empty
+2020-06-30 14:03:56 DEBUG class:26 - sum of all elements in list is 16
+2020-06-30 14:03:56 DEBUG class:27 - Total number of elements is 5
+2020-06-30 14:03:56 DEBUG class:28 - Average is 3.2 
+2020-06-30 14:03:56 INFO  class:10 - checking whether the given list is empty or not
+2020-06-30 14:03:56 DEBUG class:35 - list is empty so average is 0
+2020-06-30 15:16:58 INFO  class:14 - In second task
+2020-06-30 15:16:58 INFO  class:17 - checking list is empty or not
+2020-06-30 15:16:58 INFO  class:20 - list is not empty
+2020-06-30 15:16:58 DEBUG class:24 - The length of list is 2
+2020-06-30 15:16:58 INFO  class:14 - In second task
+2020-06-30 15:16:58 INFO  class:17 - checking list is empty or not
+2020-06-30 15:19:13 INFO  class:14 - In second task
+2020-06-30 15:19:13 INFO  class:17 - checking list is empty or not
+2020-06-30 15:19:13 INFO  class:20 - list is not empty
+2020-06-30 15:19:13 DEBUG class:24 - The length of list is 2
+2020-06-30 15:19:13 INFO  class:14 - In second task
+2020-06-30 15:19:13 INFO  class:17 - checking list is empty or not
+2020-06-30 15:23:10 INFO  class:14 - In Third task
+2020-06-30 15:23:10 INFO  class:17 - checking list is empty or not
+2020-06-30 15:23:10 INFO  class:20 - list is not empty
+2020-06-30 15:23:10 DEBUG class:24 - The size of list is 4
+2020-06-30 15:23:10 INFO  class:14 - In Third task
+2020-06-30 15:23:10 INFO  class:17 - checking list is empty or not
+2020-06-30 16:04:22 INFO  class:14 - In second task
+2020-06-30 16:04:22 INFO  class:17 - checking list is empty or not
+2020-06-30 16:04:22 INFO  class:20 - list is not empty
+2020-06-30 16:04:22 DEBUG class:24 - The length of list is 2
+2020-06-30 16:04:22 INFO  class:14 - In second task
+2020-06-30 16:04:22 INFO  class:17 - checking list is empty or not
+2020-06-30 16:04:22 INFO  class:14 - In Third task
+2020-06-30 16:04:22 INFO  class:17 - checking list is empty or not
+2020-06-30 16:04:22 INFO  class:20 - list is not empty
+2020-06-30 16:04:22 DEBUG class:24 - The size of list is 4
+2020-06-30 16:04:22 INFO  class:14 - In Third task
+2020-06-30 16:04:22 INFO  class:17 - checking list is empty or not
+2020-06-30 16:04:22 INFO  class:10 - checking whether the given list is empty or not
+2020-06-30 16:04:22 INFO  class:13 - list is not empty
+2020-06-30 16:04:22 DEBUG class:26 - sum of all elements in list is 16
+2020-06-30 16:04:22 DEBUG class:27 - Total number of elements is 5
+2020-06-30 16:04:22 DEBUG class:28 - Average is 3.2 
+2020-06-30 16:04:22 INFO  class:10 - checking whether the given list is empty or not
+2020-06-30 16:04:22 DEBUG class:35 - list is empty so average is 0
+2020-06-30 16:07:44 INFO  class:14 - In Third task
+2020-06-30 16:07:44 INFO  class:17 - checking list is empty or not
+2020-06-30 16:07:44 INFO  class:20 - list is not empty
+2020-06-30 16:07:44 DEBUG class:24 - The size of list is 4
+2020-06-30 16:07:44 INFO  class:14 - In Third task
+2020-06-30 16:07:44 INFO  class:17 - checking list is empty or not
+2020-06-30 16:07:58 INFO  class:14 - In Third task
+2020-06-30 16:07:58 INFO  class:17 - checking list is empty or not
+2020-06-30 16:07:58 INFO  class:20 - list is not empty
+2020-06-30 16:07:58 DEBUG class:24 - The size of list is 4
+2020-06-30 16:07:58 INFO  class:14 - In Third task
+2020-06-30 16:07:58 INFO  class:17 - checking list is empty or not
+2020-06-30 16:14:54 INFO  class:14 - In Third task
+2020-06-30 16:14:54 INFO  class:17 - checking list is empty or not
+2020-06-30 16:14:54 INFO  class:20 - list is not empty
+2020-06-30 16:14:54 DEBUG class:24 - The size of list is 4
+2020-06-30 16:14:54 INFO  class:14 - In Third task
+2020-06-30 16:14:54 INFO  class:17 - checking list is empty or not
+2020-06-30 16:20:17 INFO  class:14 - In second task
+2020-06-30 16:20:17 INFO  class:17 - checking list is empty or not
+2020-06-30 16:20:17 INFO  class:20 - list is not empty
+2020-06-30 16:20:17 DEBUG class:24 - The length of list is 2
+2020-06-30 16:20:17 INFO  class:14 - In second task
+2020-06-30 16:20:17 INFO  class:17 - checking list is empty or not
+2020-06-30 16:20:17 INFO  class:14 - In Third task
+2020-06-30 16:20:17 INFO  class:17 - checking list is empty or not
+2020-06-30 16:20:17 INFO  class:20 - list is not empty
+2020-06-30 16:20:17 DEBUG class:24 - The size of list is 4
+2020-06-30 16:20:17 INFO  class:14 - In Third task
+2020-06-30 16:20:17 INFO  class:17 - checking list is empty or not
+2020-06-30 16:20:17 INFO  class:10 - checking whether the given list is empty or not
+2020-06-30 16:20:17 INFO  class:13 - list is not empty
+2020-06-30 16:20:17 DEBUG class:26 - sum of all elements in list is 16
+2020-06-30 16:20:17 DEBUG class:27 - Total number of elements is 5
+2020-06-30 16:20:17 DEBUG class:28 - Average is 3.2 
+2020-06-30 16:20:17 INFO  class:10 - checking whether the given list is empty or not
+2020-06-30 16:20:17 DEBUG class:35 - list is empty so average is 0
+2020-06-30 16:20:36 INFO  class:14 - In second task
+2020-06-30 16:20:36 INFO  class:17 - checking list is empty or not
+2020-06-30 16:20:36 INFO  class:20 - list is not empty
+2020-06-30 16:20:36 DEBUG class:24 - The length of list is 2
+2020-06-30 16:20:36 INFO  class:14 - In second task
+2020-06-30 16:20:36 INFO  class:17 - checking list is empty or not
+2020-06-30 16:20:36 INFO  class:14 - In Third task
+2020-06-30 16:20:36 INFO  class:17 - checking list is empty or not
+2020-06-30 16:20:36 INFO  class:20 - list is not empty
+2020-06-30 16:20:36 DEBUG class:24 - The size of list is 4
+2020-06-30 16:20:36 INFO  class:14 - In Third task
+2020-06-30 16:20:36 INFO  class:17 - checking list is empty or not
+2020-06-30 16:20:36 INFO  class:10 - checking whether the given list is empty or not
+2020-06-30 16:20:36 INFO  class:13 - list is not empty
+2020-06-30 16:20:36 DEBUG class:26 - sum of all elements in list is 16
+2020-06-30 16:20:36 DEBUG class:27 - Total number of elements is 5
+2020-06-30 16:20:36 DEBUG class:28 - Average is 3.2 
+2020-06-30 16:20:36 INFO  class:10 - checking whether the given list is empty or not
+2020-06-30 16:20:36 DEBUG class:35 - list is empty so average is 0
+2020-07-01 19:10:09 INFO  class:14 - In second task
+2020-07-01 19:10:09 INFO  class:17 - checking list is empty or not
+2020-07-01 19:10:09 INFO  class:20 - list is not empty
+2020-07-01 19:10:09 DEBUG class:24 - The length of list is 2
+2020-07-01 19:10:09 INFO  class:14 - In second task
+2020-07-01 19:10:09 INFO  class:17 - checking list is empty or not
+2020-07-01 19:10:09 INFO  class:14 - In Third task
+2020-07-01 19:10:09 INFO  class:17 - checking list is empty or not
+2020-07-01 19:10:09 INFO  class:20 - list is not empty
+2020-07-01 19:10:09 DEBUG class:24 - The size of list is 4
+2020-07-01 19:10:09 INFO  class:14 - In Third task
+2020-07-01 19:10:09 INFO  class:17 - checking list is empty or not
+2020-07-01 19:10:09 INFO  class:10 - checking whether the given list is empty or not
+2020-07-01 19:10:09 INFO  class:13 - list is not empty
+2020-07-01 19:10:09 DEBUG class:26 - sum of all elements in list is 16
+2020-07-01 19:10:09 DEBUG class:27 - Total number of elements is 5
+2020-07-01 19:10:09 DEBUG class:28 - Average is 3.2 
+2020-07-01 19:10:09 INFO  class:10 - checking whether the given list is empty or not
+2020-07-01 19:10:09 DEBUG class:35 - list is empty so average is 0
